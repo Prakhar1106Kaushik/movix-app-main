@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://movix-app-harsh.vercel.app/)
+- [Link](https://movix-app-prakhar.vercel.app/)
 
 A quick guide to my Project ->
 
